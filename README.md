@@ -18,4 +18,4 @@ A secure, enterprise-level authentication system built with PHP and MySQL that i
 1. Clone this repository to your local machine (inside the `htdocs` directory if using XAMPP).
 2. Import the provided `zero_trust_auth.sql` file into your MySQL database using phpMyAdmin.
 3. Access the system via `http://localhost/zero_trust/login.php`
-4.
+
